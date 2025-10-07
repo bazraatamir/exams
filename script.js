@@ -51,13 +51,6 @@ const handleAdd = () => {
   // render функц ашиглан UI-г шинэчилнэ
 };
 
-// Todo-ийн төлөвийг солих товч дарахад ажиллах функц
-const handleToggle = (id) => {
-  // toggleTodo функц ашиглан todo жагсаалтыг шинэчилнэ
-  // localStorage-д хадгална
-  // render функц ашиглан UI-г шинэчилнэ
-};
-
 // Todo устгах товч дарахад ажиллах функц
 const handleDelete = (id) => {
   // deleteTodo функц ашиглан жагсаалтаас тухайн todo-г устгана
